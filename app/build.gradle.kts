@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.pri2003.pri2025food"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.pri2003.pri2025food"
